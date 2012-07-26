@@ -10,7 +10,7 @@ easy_install sqlobject
 easy_install kid
 ```
 
-### Install and Run
+## Install and Run
 ```
 git clone https://github.com/xenyou/tg-blog.git
 cd tg-blog
@@ -18,9 +18,9 @@ cd tg-blog
 visit http://localhost:8080
 ```
 
-### How to use it
-1.Click [registration] link.
-2.Register 1st user (root user) 
-3.Login
-4.Click [write] link and write an article.
+## How to use it
+1. Click [registration] link.
+2. Register 1st user (root user) 
+3. Login
+4. Click [write] link and write an article.
 
