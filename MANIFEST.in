@@ -1,0 +1,6 @@
+include start-miniascaper2.py
+include *.cfg
+include miniascaper2/config/*.cfg
+recursive-include miniascaper2/templates *.html
+recursive-include miniascaper2/templates *.kid
+recursive-include miniascaper2/static *

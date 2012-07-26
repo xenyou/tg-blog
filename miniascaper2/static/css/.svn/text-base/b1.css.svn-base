@@ -1,0 +1,134 @@
+
+.flash {
+  font-weight: bold;
+  margin: 3px;
+}
+
+/* TOP */
+
+table.main {
+}
+
+td.topleft {
+/*    background-color : #ccffff; */
+}
+
+td.topright {
+    width          : 250px;
+    padding        : 10px;
+    vertical-align : top;
+    text-align     : center;
+/*    background-color : #99ffcc; */
+}
+
+.article {
+    font-size        : 12px;
+    font-waight      : normal;
+    background-color : black;
+    color            : white;
+    padding          : 5px;
+    width            : 450px;
+    overflow         : auto;
+    margin           : 5px;
+}
+
+.subject {
+    font-size : 14px;
+    padding   : 2px;
+}
+
+table.filelisttbl {
+    background-color : white;
+}
+
+.filelist1 {
+    background-color : black;
+    color            : white;
+    text-align       : center;
+    width            : 150px;
+}
+
+.filelist2 {
+    background-color : black;
+    color            : white;
+    text-align       : center;
+    width            : 100px;
+}
+
+
+/* bbs */
+
+.bbs {
+    font-size        : 12px;
+    font-waight      : normal;
+    background-color : black;
+    color            : white;
+    padding          : 5px;
+    width            : 400px;
+    overflow         : auto;
+    margin           : 5px;
+}
+
+.biform {
+    width          : 300;
+    vertical-align : top;
+}
+
+.blabel {
+    font-size   : 12px;  
+    font-weight : bold;
+}
+
+.bbody {
+    font-size : 10px;
+    margin    : 10px;
+    width     : 250px;
+}
+
+.bmeta {
+    font-size        : 10px;
+    text-align       : right;
+    padding          : 1px;
+    background-color : black;
+}
+
+.generic_s1 {
+    font-size : 10px;
+    padding   : 5px;
+}
+
+.posttime {
+    font-size  : 10px;
+    text-align : right;
+    padding    : 5px;
+}
+
+.navi {
+    font-size : 14px;
+    padding   : 3px;
+}
+
+
+/* edit */
+
+td.label {
+    text-align : right;
+    width      : 100px;
+}
+
+td.body {
+    width : 400px;
+}
+
+/* archives */
+
+.archives {
+    text-align : left;
+    font-size  : 14px;
+}
+
+.entries {
+    text-align : left;
+    font-size  : 12px;
+}
+

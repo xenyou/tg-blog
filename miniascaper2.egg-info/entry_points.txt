@@ -1,0 +1,4 @@
+[console_scripts]
+bootstrap-miniascaper2 = miniascaper2.command:bootstrap
+start-miniascaper2 = miniascaper2.command:start
+

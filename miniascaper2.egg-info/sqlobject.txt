@@ -1,0 +1,2 @@
+db_module=miniascaper2.model
+history_dir=$base/miniascaper2/sqlobject-history
