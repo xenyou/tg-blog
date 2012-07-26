@@ -8,6 +8,7 @@ An turbogears application for blog
 easy_install turbogears==1.1.3
 easy_install sqlobject
 easy_install kid
+easy_install docutils
 ```
 
 ## Install and Run
