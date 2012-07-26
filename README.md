@@ -1,7 +1,7 @@
 tg-blog
 =======
 
-An turbogears application for blog
+A turbogears application for blog
 
 ## Setup
 ```
@@ -24,4 +24,11 @@ visit http://localhost:8080
 2. Register 1st user (root user) 
 3. Login
 4. Click [write] link and write an article.
+
+## Note
+Setup LANG and LC_ALL environment variables if you use Mac OS X. Otherwise you'll get an error like 'ValueError: unknown locale: UTF-8'.
+```
+export LANG=ja_JP.UTF-8
+export LC_ALL=ja_JP.UTF-8
+```
 
